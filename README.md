@@ -2,7 +2,7 @@
 
 Originally in: https://gist.github.com/kobigurk/24c25e68219df87c348f1a78db51bb52
 
-This is a sha256 gadget, based on https://github.com/zcash/zcash
+This is a sha256 gadget for a specific use-case of hashing in a merkle tree, based on https://github.com/zcash/zcash
 
 The code is licensed under the MIT license.
 
