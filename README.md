@@ -6,9 +6,9 @@ This is a sha256 gadget, based on https://github.com/zcash/zcash
 
 The code is licensed under the MIT license.
 
-License notices of code dependencies:
+# License notices:
 
-# ZCash
+## ZCash
 
 Copyright (c) 2016-2018 The Zcash developers
 Copyright (c) 2009-2018 The Bitcoin Core developers
@@ -48,9 +48,7 @@ licenses, users and distributors should note that when built using the default
 build options, Zcash depends on Oracle Berkeley DB 6.2.x, which is licensed
 under the GNU Affero General Public License.
 
-# libsnark
-
-
+## libsnark
 
 The libsnark library is developed by SCIPR Lab (http://scipr-lab.org)
 and contributors.
